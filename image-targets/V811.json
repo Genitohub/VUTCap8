@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 252,
+    "left": 0,
+    "width": 720,
+    "height": 960,
+    "isRotated": true,
+    "originalWidth": 720,
+    "originalHeight": 1464
+  },
+  "imagePath": "image-targets/V811_luminance.jpg",
+  "metadata": null,
+  "name": "V811",
+  "resources": {
+    "originalImage": "V811_original.jpg",
+    "croppedImage": "V811_cropped.jpg",
+    "thumbnailImage": "V811_thumbnail.jpg",
+    "luminanceImage": "V811_luminance.jpg"
+  },
+  "created": 1790114929618,
+  "updated": 1790114929618
+}
